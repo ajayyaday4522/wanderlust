@@ -8,7 +8,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [https://wanderlust.onrender.com](https://wanderlust.onrender.com)
+🔗 [https://wanderlust-427v.onrender.com/listings](https://wanderlust-427v.onrender.com/listings)
 
 > **Note:** Free Render tier may take ~50 seconds to spin up on first visit.
 
